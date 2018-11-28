@@ -1,5 +1,4 @@
-# Chloe Steele
-# PhD Student, University of Liverpool
+# Chloe Steele - PhD Student, University of Liverpool
 
 ## About me
 
@@ -34,8 +33,13 @@ My PhD research project aims to bridge the gap between large scale Census data a
 ## Contact
 
 Email: c.m.steele@liverpool.ac.uk
+
 Geographic Data Science Lab
+
 University of Liverpool
+
 Roxby Building
+
 74 Bedford Street South
+
 L69 7ZT
