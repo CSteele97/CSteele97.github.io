@@ -13,6 +13,8 @@ Agent Based Models attempt to capture the behaviour of individuals within an env
 
 ## ABM Project
 
+Click [here](https://github.com/CSteele97/GEOG5995M_Assignment_1) for the repository for Assignment 1
+
 In order to complete this assignment, I have created an ABM to model sheep grazing in a field. Each of the 10 agents is an independent sheep, who exhibit behaviours such as moving, eating the environment around them, and communicating with their neighbours by sharing their food stores if they are in a close proximity. The sheep stop grazing once a certain stopping condition has been met; in this case, when one of the sheep has a food store of 5000 units, all of the sheep stop moving. 
 
 The final output of the model can be seen below:
