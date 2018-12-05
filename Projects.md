@@ -1,6 +1,6 @@
 [Return to Homepage](https://csteele97.github.io)
 
-# Programming for Social Scientists Portfolio
+# Programming for Social Science Portfolio
 
 This portfolio contains the work conducted in order to complete the first assignment for the Programming for Social Scientists module conducted at the University of Leeds. The aim of the assignment is to build an Agent Based Model and display the output on a website, as well as linking the code to the model. 
 
