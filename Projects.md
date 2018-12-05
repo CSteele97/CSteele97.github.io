@@ -14,5 +14,5 @@ Agent Based Models attempt to capture the behaviour of individuals within an env
 In order to complete this assignment, I have created an ABM to model sheep grazing in a field. Each of the 10 agents is an independent sheep, who exhibit behaviours such as moving, eating the environment around them, and communicating with their neighbours by sharing their food stores if they are in a close proximity. The sheep stop grazing once a certain stopping condition has been met; in this case, when one of the sheep has a food store of 5000 units, all of the sheep stop moving. 
 
 <p align="center">
-  <img width="200" height="225" src="leeds_gif_final.gif">
+  <img width="600" height="600" src="leeds_gif_final.gif">
 </p>
