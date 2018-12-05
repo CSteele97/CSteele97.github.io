@@ -28,7 +28,7 @@ My PhD research project aims to bridge the gap between large scale Census data a
 * Understanding survey data and how to analyse it.
 * Developing new techniques for data fusion and synthetic estimation
 
-**See my [projects](https://csteele97.github.io/Projects) as part of my coursework**
+**See my project(https://csteele97.github.io/Projects) as part of my Programming for Social Science coursework**
 
 ## Contact
 
